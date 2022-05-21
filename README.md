@@ -1,1 +1,1 @@
-# music-site
+# Music Site
